@@ -3,6 +3,7 @@ IoT Starter is a demo application for interacting with IBM Watson IoT Platform.
 The application turns your mobile device into a sensor that publishes and receives data to and from the cloud using the MQTT protocol.
 
 For the iOS version, refer to [IoT Starter for iOS](https://github.com/ibm-messaging/iot-starter-for-ios)
+For Android  https://github.com/deveops/iot-starter-for-android/releases
 
 ## Short Description
 Watson IoT Platform is a cloud-hosted service to simplify managing all of your IoT devices. The key features provided by the service include:
